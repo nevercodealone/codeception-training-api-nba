@@ -1,4 +1,4 @@
-# codeception-training-api-nba
+# Codeception training API NBA
 API testing with Codeception
 
 ## Public API inspiration
